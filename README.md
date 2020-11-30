@@ -10,7 +10,7 @@ Collection of assignments and labs from UVA's Intro to Data Science with Python
 
 
 ##### HW / LABS
-01 - Notebooks, Programming in Python
+01 - Notebooks, Programming in Python__  
 02 - Data Types, Tables
 03 - Table Manipulation, Visualization 
 04 - Visualizations, Functions, Histograms, Groups
