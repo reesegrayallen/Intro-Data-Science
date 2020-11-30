@@ -1,6 +1,7 @@
 # Intro-Data-Science
 Collection of assignments and labs from UVA's Intro to Data Science with Python
 
+<br />
 
 #### Project 1: Global Population Growth & Extreme Poverty
 
@@ -21,5 +22,5 @@ Collection of assignments and labs from UVA's Intro to Data Science with Python
 08 - Confidence Intervals, Correlation, Variance <br />
 09 - Central Limit Theorem <br />
 10 - Linear Regression, Conditional Probability <br />
-11 - Regression Inference, Errors 
-12 - Classification 
+11 - Regression Inference, Errors <br />
+12 - Classification <br />
