@@ -15,4 +15,4 @@ Collection of assignments and labs from UVA's Intro to Data Science with Python
 03 - Table Manipulation, Visualization 
 04 - Visualizations, Functions, Histograms, Groups
 05 - Pivot Tables, Iteration, Simulation 
-
+06 - Simulation, Estimation, Assessing Models
