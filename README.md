@@ -9,12 +9,17 @@ Collection of assignments and labs from UVA's Intro to Data Science with Python
 #### Project 3: K-Nearest-Neighbors Classifier
 <br />
 <br />
-<br />
 
-##### HW / LABS
+#### HW / LABS
 01 - Notebooks, Programming in Python <br /> 
 02 - Data Types, Tables <br />
 03 - Table Manipulation, Visualization <br />
 04 - Visualizations, Functions, Histograms, Groups <br />
 05 - Pivot Tables, Iteration, Simulation <br />
 06 - Simulation, Estimation, Assessing Models <br />
+07 - Testing Hypotheses, Resampling, Bootstrap <br />
+08 - Confidence Intervals, Correlation, Variance <br />
+09 - Central Limit Theorem <br />
+10 - Linear Regression, Conditional Probability <br />
+11 - Regression Inference, Errors 
+12 - Classification 
