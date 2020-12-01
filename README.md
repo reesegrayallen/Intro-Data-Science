@@ -1,5 +1,5 @@
 # Intro-Data-Science
-Collection of assignments and labs from UVA's Intro to Data Science with Python
+Collection of assignments and labs from UVA's Intro to Data Science with Python. The course focuses on data cleaning, merging, transformation, and analytic methods drawn from data science analysis and statistics, with an emphasis on applications.
 
 <br />
 
